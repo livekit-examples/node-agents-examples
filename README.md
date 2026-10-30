@@ -1,3 +1,6 @@
+> [!WARNING]
+> This example is archived and no longer maintained. For current examples, see [Agents JS examples](https://github.com/livekit/agents-js/tree/main/examples).
+
 # LiveKit Agents Examples for Node.js
 
 This repository contains examples demonstrating how to use the LiveKit Agents library (pre-v1) in Node.js applications. Each example showcases different use cases for building voice-enabled and or video-enabled applications with LiveKit.
